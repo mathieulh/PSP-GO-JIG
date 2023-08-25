@@ -530,7 +530,7 @@
   (gr_text "** CAUTION ** \n\n\nSome UART modules advertised as 5V or with a jumper to 5V do NOT shift the power levels for UART TX/RX \nwhich will operate at 3.3V, Please measure voltage on your UART module between TX and GND.\nif it runs at 3.3V Replace R5 to a 1K ohms resistor." (at 114.3 53.34) (layer "B.SilkS") (tstamp dec44830-5cd3-419f-9c99-a6768ae47232)
     (effects (font (size 1 1) (thickness 0.2) bold) (justify left bottom mirror))
   )
-  (gr_text "5V ONLY (OPT)" (at 76.2 88.9 90) (layer "F.SilkS") (tstamp 00d5b9d0-5dad-45a1-a0ba-ce42cdffb130)
+  (gr_text "5V ONLY (OPT.)" (at 76.2 92.5 90) (layer "F.SilkS") (tstamp 00d5b9d0-5dad-45a1-a0ba-ce42cdffb130)
     (effects (font (size 1 1) (thickness 0.2)) (justify left bottom))
   )
   (gr_text "TX/D-" (at 81.28 63.5) (layer "F.SilkS") (tstamp 1f4d2fae-03df-4ce9-b714-fa89f9c561f0)
