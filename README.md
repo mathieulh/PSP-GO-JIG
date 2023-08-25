@@ -12,5 +12,5 @@ PCBs designed to build a PSP GO JIG
 * SMD 0805 'NANO' design, meant to be small enough to fit inside the PSP-N340 cradle.
 
 
-![image](https://github.com/mathieulh/PSP-GO-JIG/assets/203427/1b72bf90-e0c9-4bc1-8a4c-22b07630dcc1)
+![image](https://github.com/mathieulh/PSP-GO-JIG/assets/203427/9b60f6fa-3087-406b-98ef-1837fe7164d4)
 
